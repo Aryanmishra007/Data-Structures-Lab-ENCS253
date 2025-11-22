@@ -1,93 +1,58 @@
-📘 DSA PRACTICAL FILE – README
-B.Tech CSE – Data Structures Lab (ENCS253)
-Student: Aryan Mishra | Roll No: 2401010304 | Section B
-📌 Overview
+🌟 Creative & Colorful GitHub Repository Description (For Your DSA Practical File)
 
-This repository contains the complete Data Structures Lab Practical File consisting of 12 Experiments, implemented entirely in Java.
-Each experiment includes:
+🚀 Data Structures Lab Practical File – Java (ENCS253)
+📚 A beautifully structured collection of 12 DSA experiments written entirely in Java!
 
-AIM
+This repository contains a complete and polished DSA Practical File for B.Tech CSE, including:
 
-Problem Statement / Question
+✨ Inventory Management System
+🔍 Searching Algorithms (Linear + Binary)
+🔁 Linked List Operations (Circular & Singly)
+🧱 Stack Applications (Operations + Browser Simulation)
+🚦 Circular Queue Implementation
+🔢 Bubble Sort Algorithm
 
-Algorithm / Explanation
+Every experiment includes:
 
-Java Code
+✔ AIM
+✔ Problem Statement / Question
+✔ Algorithm & Explanation
+✔ Clean, well-formatted Java Code
+✔ Output / Example
 
-Output (where applicable)
+🎓 Perfect for students, beginners, and anyone revising Data Structures concepts.
 
-This README acts as a quick guide to understand the contents and run the programs.
+🎯 What’s Inside?
 
-📑 List of Experiments
-S. No.	Name of Experiment
-1	Inventory Management System using ArrayList
-2	Inventory Stock Manager – Process Sales & Zero Stock
-3	Linear Search Implementation
-4	Circular Linked List – Insertion
-5	Circular Linked List – Deletion
-6	Singly Linked List – Deletion
-7	Circular Queue Implementation
-8	Stack using Array (Push, Pop, Peek, Display)
-9	Postfix Expression Evaluation
-10	Browser Back Button Simulation using Stack
-11	Bubble Sort Implementation
-12	Binary Search Implementation
-🧪 How to Run Java Files
-1. Compile
-javac FileName.java
+📁 12 Structured Experiments
 
-2. Run
-java FileName
+🧠 Core Data Structure Implementations
 
+💡 Real-world Mini Projects (Browser Back, Inventory System)
 
-Example:
+🎨 Neatly formatted & beginner-friendly Java programs
 
-javac LinearSearch.java
-java LinearSearch
+📘 College-ready practical content
 
-📦 Folder Structure
-/DSA-Practical-File
-│── Experiment1_InventoryManagement.java
-│── Experiment2_InventorySalesManager.java
-│── Experiment3_LinearSearch.java
-│── Experiment4_CircularLLInsertion.java
-│── Experiment5_CircularLLDeletion.java
-│── Experiment6_SinglyLLDeletion.java
-│── Experiment7_CircularQueue.java
-│── Experiment8_StackArray.java
-│── Experiment9_PostfixEvaluation.java
-│── Experiment10_BrowserBackButton.java
-│── Experiment11_BubbleSort.java
-│── Experiment12_BinarySearch.java
-│── DSA_Practical_File.docx
-│── README.md
+⭐ Why This Repo Stands Out?
 
-📚 Technologies Used
+✨ Crystal-clear formatting
+✨ Each experiment is separated & labeled
+✨ Easy to run Java programs
+✨ Follows academic practical file format
+✨ Includes algorithms, explanations, & code
+✨ Zero plagiarism — clean, handwritten-style explanations
 
-Java (JDK 8+)
+📦 Tech Used
 
-OOP Concepts
+☕ Java (JDK 8+)
 
-Array & ArrayList
+📐 OOP Concepts
 
-Linked Lists
+🧱 Data Structures (LL, Queue, Stack, Search, Sort)
 
-Stacks & Queues
+🎓 Created By
 
-Searching & Sorting
-
-⭐ Summary
-
-This practical file demonstrates complete understanding of:
-
-Data Structures fundamentals
-
-Implementation of linear and circular linked lists
-
-Stack and queue applications
-
-Searching & sorting algorithms
-
-Real-world inventory management system logic
-
-It ensures a strong foundation required for future subjects like Algorithms, OOP, and Competitive Coding.
+👨‍🎓 Aryan Mishra – B.Tech CSE (Section B)
+K.R. Mangalam University
+Roll No: 2401010304
